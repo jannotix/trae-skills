@@ -103,6 +103,7 @@ This section will list available skills as they are added.
 | [web-design-teroop](skills/web-design-teroop/SKILL.md) | Comprehensive design guidance for new frontend projects, covering style, logos, icons, and animations. | New Project, Web Design, UI/UX, Branding | Stable |
 | [trae-claw-install](skills/trae-claw-install/SKILL.md) | Repository-driven OpenClaw deployment workflow with platform routing, acceptance checks, and unified troubleshooting steps. | OpenClaw Deployment, DevOps Workflow, Troubleshooting | Stable |
 | [cloudbase](skills/cloudbase/SKILL.md) | Tencent CloudBase development in Trae — MCP-first workflow for Web, WeChat Mini Program, auth, databases, cloud functions, CloudRun, storage, and built-in AI. | CloudBase, 腾讯云开发, Web, Mini Program, Serverless | Stable |
+| [cycle-delivery](skills/cycle-delivery/SKILL.md) | Evidence-gated software delivery through a local MCP control plane: immutable request, blind reviews, arbiter approval and exact-byte Git delivery. Requires the trae-cycle binary from the project GitHub release. | Software Delivery, Code Review, Governance, Git | Stable |
 
 
 > Tip: To add your skill to this catalog, update this table in your PR.
